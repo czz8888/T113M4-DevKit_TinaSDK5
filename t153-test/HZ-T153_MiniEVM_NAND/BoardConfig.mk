@@ -1,0 +1,3 @@
+LICHEE_BRANDY_DEFCONF:=sun8iw22p1_t153_nand_defconfig
+LICHEE_ROOTFS=ubuntu22.04_base.tar.bz2
+LICHEE_FS_OVERLAY:=rootfs_overlay
